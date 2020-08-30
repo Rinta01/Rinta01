@@ -7,7 +7,7 @@
 - ⚡ I love playing guitar 🎸 and videogames 🎮
 
 ### Spotify Playing 🎧
-[![Spotify](<img src="spotify-now-playing-merinta.vercel.app/api/spotify-playing" alt="me.rinta Spotify Playing" width="350" />)](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
+[![Spotify](<img src="https://merinta.vercel.app/api/spotify" alt="me.rinta Spotify Playing" width="350" />)](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
 
 ### Connect with me:
 
