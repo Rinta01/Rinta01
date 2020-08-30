@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="Rinta01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rinta01&show_icons=true&hide_border=true" />
+<img align="left" alt="Rinta01's Github Stats" src="https://github-readme-stats-merintai.vercel.app/api?username=Rinta01&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/me_rinta
 [youtube]: https://youtube.com/channel/UC8nJtUkSYs9iP0Y3kjUXUQA
