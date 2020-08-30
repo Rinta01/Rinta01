@@ -1,4 +1,4 @@
-### Hi, I'm Rinat 👋
+## Hi, I'm Rinat 👋
 
 ## I'm an aspiring Javascript Developer!
 
@@ -7,7 +7,7 @@
 - ⚡ I love playing guitar 🎸 and videogames 🎮
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.merinta.vercel.app/api/spotify-playing" alt="me.rinta Spotify Playing" width="350" />](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
+[<img src="spotify-now-playing-eight.vercel.app/api/spotify-playing" alt="me.rinta Spotify Playing" width="350" />](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
 
 ### Connect with me:
 
