@@ -1,6 +1,7 @@
-## Hi, I'm Rinat 👋
+# Hi, I'm Rinat 👋
+An aspiring Javascript Developer
 
-## I'm an aspiring Javascript Developer!
+<br/>
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Reimagine my old projects using my imporoved dev skills
