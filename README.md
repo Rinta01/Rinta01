@@ -1,5 +1,5 @@
 # Hi, I'm Rinat 👋
-An aspiring Javascript Developer
+<i>An aspiring Javascript Developer</i>
 
 <br/>
 
