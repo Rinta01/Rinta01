@@ -1,11 +1,11 @@
-# Hi, I'm Rinat 👋
+## Hi, I'm Rinat 👋
 <i>An aspiring Javascript Developer</i>
 
 <br/>
 
-- 🌱 I’m currently learning everything 🤣
+- 📚  I’m currently learning web-design 😍
 - 🥅 2020 Goals: Reimagine my old projects using my imporoved dev skills
-- ⚡ I love playing guitar 🎸 and videogames 🎮
+- 🕺🏼 I love playing guitar 🎸 and videogames 🎮
 
 ### Spotify Playing 🎧
 [![Spotify](https://merinta.vercel.app/api/spotify)](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
