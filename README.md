@@ -7,15 +7,6 @@ An aspiring Javascript Developer
 - 🥅 2020 Goals: Reimagine my old projects using my imporoved dev skills
 - 🕺🏼 I love playing guitar 🎸 and videogames 🎮
 
-### Spotify Playing 🎧
-[![Spotify](https://merinta.vercel.app/api/spotify)](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
-
-### Connect with me:
-
-[<img align="left" alt="me.rinta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,9 +27,20 @@ An aspiring Javascript Developer
 <br />
 <br />
 
+<img align="left" alt="Rinta01's Github Stats" src="https://github-readme-stats-merintai.vercel.app/api?username=Rinta01&show_icons=true&hide_border=true" />
+
 ---
 
-<img align="left" alt="Rinta01's Github Stats" src="https://github-readme-stats-merintai.vercel.app/api?username=Rinta01&show_icons=true&hide_border=true" />
+### Spotify Playing 🎧
+[![Spotify](https://merinta.vercel.app/api/spotify)](https://open.spotify.com/user/314yx4g3pq5uymmcduifw7f6sqdq)
+
+### Connect with me:
+
+[<img align="left" alt="me.rinta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="me.rinta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="me.rinta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
 
 [twitter]: https://twitter.com/me_rinta
 [youtube]: https://youtube.com/channel/UC8nJtUkSYs9iP0Y3kjUXUQA
