@@ -1,5 +1,5 @@
 ## Hi, I'm Rinat 👋
-<i>An aspiring Javascript Developer</i>
+An aspiring Javascript Developer
 
 <br/>
 
@@ -12,8 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="me.rinta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="me.rinta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="me.rinta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
